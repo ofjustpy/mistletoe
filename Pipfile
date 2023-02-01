@@ -1,0 +1,22 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+aenum = "*"
+jsbeautifier = "*"
+email-validator = "*"
+dpath = "*"
+starlette = "*"
+addict = "*"
+whoosh = "*"
+justpy = "*"
+wtforms = "*"
+jsonpath-ng = "*"
+
+[dev-packages]
+ipython = "*"
+
+[requires]
+python_version = "3.11"
